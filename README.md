@@ -1,0 +1,2 @@
+# osamede
+git tutorial
